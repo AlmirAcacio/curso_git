@@ -1,1 +1,6 @@
-# curso_git
+curso\_git
+
+\#gitaula
+
+Aula introdutória de git.
+
